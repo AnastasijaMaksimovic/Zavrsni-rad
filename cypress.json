@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://gradebook.vivifyideas.com",
+    "env": {
+        "validUserMail": "anastasija.maksimovic21@gmail.com",
+        "validUserPass": "anjaitoni111"
+    }
+}
